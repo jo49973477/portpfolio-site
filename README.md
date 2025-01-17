@@ -1,2 +1,2 @@
 # portpfolio-site
-sejoo.kim형 온라인으로 CV 올린 거 깐지나보여서 따라할거임
+My portpfolio which is planned to be uploaded on Internet.
